@@ -16,5 +16,5 @@ Code Igniter - Web Applications Project
   - AES256
 
 ## Screenshots
-[![MiniThings Homepage](https://i.imgur.com/UEeo3vB.jpg)]
-[![MiniThings Cart](https://i.imgur.com/SCoUrte.png)]
+![MiniThings Homepage](https://i.imgur.com/UEeo3vB.jpg)
+![MiniThings Cart](https://i.imgur.com/SCoUrte.png)
